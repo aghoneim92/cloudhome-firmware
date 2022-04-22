@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${env:HOME}/mongoose-src/mongoose-os/**",
+        "${env:HOME}/mongoose-src/mongoose/include/**",
+        "${env:HOME}/mongoose-src/rpc-common/include/**",
+        "${env:HOME}/mongoose-src/mqtt/include/**",
+        "${env:HOME}/mongoose-src/mbedtls/include/**"
+      ],
+      "defines": [],
+      "macFrameworkPath": [],
+      "compilerPath": "/usr/local/bin/gcc-11",
+      "cStandard": "gnu17",
+      "cppStandard": "gnu++17",
+      "intelliSenseMode": "macos-gcc-x64"
+    }
+  ],
+  "version": 4
+}

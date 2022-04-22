@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "mgos.h": "c",
+    "mgos_rpc.h": "c",
+    "crypto.h": "c",
+    "limits.h": "c"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
