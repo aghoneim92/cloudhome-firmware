@@ -1,7 +1,3 @@
-# A blank Mongoose OS app
+# Cloudhome Firmware
 
-## Overview
-
-This is an empty app, serves as a skeleton for building Mongoose OS
-apps from scratch.
-
+Cloudhome is a (WIP) home automation system
